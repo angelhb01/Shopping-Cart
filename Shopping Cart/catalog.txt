@@ -1,0 +1,5 @@
+Apple   $3.99   Red fruit       AF46316
+Orange  #2.99   Orange fruit    OF46320
+Banana  $3.99   Yellow fruit    BF46325
+Grapes  $2.99   Purple fruit    GF44382
+Kiwi    $1.99   Green fruit     KF26273
